@@ -7,7 +7,7 @@
   "vcenter_datastore": "vsanDatastore",
   "vcenter_host": "MGMT",
   "vcenter_folder": "",
-  "vcenter_network": "infra-traning-1079",
+  "vcenter_network": "infra-training-1079",
   "guest_os_type": "ubuntu64Guest",
   "http_directory": "http",
   "iso_urls": "https://old-releases.ubuntu.com/releases/22.04/ubuntu-22.04-live-server-arm64.iso",
