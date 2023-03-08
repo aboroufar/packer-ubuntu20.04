@@ -3,7 +3,7 @@
   "vcenter_server":"vc.tim.poc",
   "vcenter_username":"administrator@vsphere.local",
   "vcenter_password":"VMware1!",
-  "vcenter_datacenter": "ITG-DC-INES",
+  "vcenter_datacenter": "TIM",
   "vcenter_datastore": "vsanDatastore",
   "vcenter_host": "Training-workload",
   "vcenter_folder": "",
