@@ -5,7 +5,7 @@
   "vcenter_password":"VMware1!",
   "vcenter_datacenter": "ITG-DC-INES",
   "vcenter_datastore": "vsanDatastore",
-  "vcenter_host": "",
+  "vcenter_host": "Training-workload",
   "vcenter_folder": "",
   "vcenter_network": "infra-traning-1079",
   "guest_os_type": "ubuntu64Guest",
